@@ -125,7 +125,14 @@ El sistema utiliza una arquitectura **serverless en AWS**, integrando servicios 
 
 `JavaScript` `React Native` `Expo` `Python` `AWS Lambda` `API Gateway` `DynamoDB` `AWS Rekognition`
 
+<p>
+  <a href="https://github.com/Julian-Ruiz-G/toma-asistencia-umb-mobile">
+    <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
+
 
 ### Soportia — Plataforma de Soporte Técnico
 
