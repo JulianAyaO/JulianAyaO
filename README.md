@@ -165,6 +165,12 @@ El sistema implementa diferentes mecanismos para manejar fallos, duplicidad de o
 
 `Java 21` `Spring Boot` `React` `TypeScript` `PostgreSQL` `Apache Kafka` `Docker`
 
+<p>
+  <a href="https://github.com/JulianAyaO/PayCore">
+    <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## Contacto
