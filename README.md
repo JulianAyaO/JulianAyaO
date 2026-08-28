@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Julian Aya Orozco </h1>
+<h1 align="center">Hola, soy Julian Aya Orozco</h1>
 
 <h3 align="center">Estudiante de Ingeniería de Software · Desarrollador Full Stack</h3>
 
@@ -19,74 +19,86 @@
 
 ## Sobre mí
 
-Soy estudiante de **Ingeniería de Software** enfocado en el desarrollo de aplicaciones completas, desde el diseño de APIs y bases de datos hasta interfaces web y móviles.
+Soy estudiante de **Ingeniería de Software** de último semestre enfocado en el desarrollo de aplicaciones Full Stack, con especial interés en backend, arquitectura de software y desarrollo de sistemas completos.
 
-He desarrollado proyectos utilizando principalmente **Java y Spring Boot**, además de React, Angular, React Native, Python y servicios de AWS.
+He trabajado principalmente con **Java y Spring Boot**, desarrollando APIs, sistemas de autenticación, aplicaciones en tiempo real y arquitecturas orientadas a eventos. También he desarrollado aplicaciones web y móviles utilizando Angular, React y React Native.
 
-Mis proyectos abarcan diferentes áreas de la ingeniería de software, incluyendo **Inteligencia Artificial, Cloud, aplicaciones móviles, sistemas en tiempo real, arquitecturas orientadas a eventos, automatización y resiliencia**.
+Mis proyectos incluyen el uso de **Inteligencia Artificial, servicios Cloud, reconocimiento facial, procesamiento de eventos, automatización, observabilidad y mecanismos de resiliencia**.
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 ### Lenguajes
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
 ### Backend
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square"/>
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square"/>
+</p>
 
-### Frontend & Mobile
+### Frontend y Mobile
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+</p>
 
-### Datos & Comunicación
+### Bases de datos y comunicación
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white"/>
-<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
-### Cloud, DevOps & Observabilidad
+### Cloud y DevOps
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_Rekognition-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Rekognition-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+</p>
 
-### Testing & Automatización
+### Testing y automatización
 
-<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Testcontainers-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Testcontainers-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+</p>
 
 ---
 
-## Proyectos Destacados
+## Proyectos
 
 ### Atempo-App — Sistema de Gestión de Restaurante con IA
 
-Sistema full-stack para gestionar pedidos de un restaurante. Los clientes pueden consultar el menú, realizar pedidos mediante un chat con IA y solicitar la cuenta, mientras que cocina, meseros y administradores cuentan con sus propios paneles de gestión.
+Sistema Full Stack para la gestión de pedidos de un restaurante. Los clientes pueden consultar el menú, realizar pedidos mediante un chat con IA y solicitar la cuenta, mientras cocina, meseros y administradores cuentan con sus propios paneles.
 
 * Asistente de pedidos basado en IA
 * RAG mediante embeddings y `pgvector`
@@ -108,7 +120,7 @@ Sistema full-stack para gestionar pedidos de un restaurante. Los clientes pueden
 
 ### Sistema de Asistencia Universitaria
 
-Aplicación móvil para registrar la asistencia universitaria mediante **códigos QR y reconocimiento facial**.
+Aplicación móvil para registrar y gestionar la asistencia universitaria mediante **códigos QR y reconocimiento facial**.
 
 El sistema utiliza una arquitectura **serverless en AWS**, integrando servicios administrados para el procesamiento, almacenamiento y reconocimiento facial.
 
@@ -148,7 +160,7 @@ Plataforma web para gestionar soporte técnico interno, centralizando tickets, a
 
 ### PayCore — Plataforma de Pagos Orientada a Eventos
 
-Plataforma de pagos simulados enfocada en **arquitectura orientada a eventos, consistencia y resiliencia en sistemas distribuidos**.
+Plataforma de pagos simulados enfocada en **arquitectura orientada a eventos, consistencia y resiliencia**.
 
 El sistema implementa diferentes mecanismos para manejar fallos, duplicidad de operaciones y comunicación entre servicios.
 
@@ -173,8 +185,4 @@ El sistema implementa diferentes mecanismos para manejar fallos, duplicidad de o
   <a href="mailto:ayajulian.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <i>Construyendo soluciones de software con tecnologías modernas.</i>
 </p>
