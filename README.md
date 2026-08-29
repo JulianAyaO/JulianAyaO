@@ -3,7 +3,7 @@
 <h3 align="center">Estudiante de Ingeniería de Software · Desarrollador Full Stack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+Full+Stack+Applications;Developing+Backend+with+Java+%26+Spring+Boot;Building+with+AI+%26+Cloud;Creating+Event-Driven+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+Full+Stack+Applications;Developing+Backend+with+Java+%26+Spring+Boot;Building+with+AI+%26+Cloud;Building+Scalable+Software" alt="Typing SVG" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ Mis proyectos incluyen el uso de **Inteligencia Artificial, servicios Cloud, rec
 
 ---
 
-## Proyectos
+## Proyectos Destacados
 
 ### Atempo-App — Sistema de Gestión de Restaurante con IA
 
